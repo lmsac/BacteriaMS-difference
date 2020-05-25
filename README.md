@@ -21,8 +21,8 @@ If you have everything installed, you can run identification for a sample spectr
 
 
 ## Publications
-Dongxue Zhang, Yi Yang, Qin Qin, Juan Xu, Bing Wang, Jianwei Chen, Baohong Liu, Weijia Zhang and Liang Qiao, "MALDI-TOF characterization of protein expression mutation during morphological changes of bacteria under the impact of antibiotics", Submitted.
-
+1. Yang, Y., Lin, Y., Chen, Z., Gong, T., Yang, P., Girault, H., Liu, B., Qiao, L. Bacterial whole cell typing by mass spectra pattern matching with bootstrapping assessment. *Anal Chem* **89**, 12556–12561 (2017). https://doi.org/10.1021/acs.analchem.7b03820.
+2. Zhang, D., Yang, Y., Qin, Q., Xu, J., Wang, B., Chen, J., Liu, B., Zhang, W., Qiao, L. MALDI-TOF characterization of protein expression mutation during morphological changes of bacteria under the impact of antibiotics. *Anal Chem* **91**, 2352–2359 (2019). https://doi.org/10.1021/acs.analchem.8b05080.
 
 ## License
 BacteriaMS-difference is distributed under a BSD license. See the LICENSE file for details.
